@@ -23,6 +23,7 @@ With only a window manager you will not be able to do anything, except for those
 
 ### Status bar
 Ya, you got a menu, you can open and manage multiple windows, but... something still missing? Yes, you can't have an overview of the system without having to open a terminal. To solve this issue, and if you have enough space on the screen, you can add to startup entries of your wm a desktop bar. Like everything in linux there are many alternatives for every software; i3 has its own i3bar, I also heard of i3blocks, polybar and my friend's (Allah ak)[vbar](https://github.com/vbextreme/vbar).
+TODO to get a real overview of the system some other daemons are needed; for example disk are monitored by smartd, tty messages are lost under an X session, and so on. I think linux on his own will prevent any hardware damage by shutting down itself, but having a notification before this happen may be useful.
 
 
 To be continued... you feel something is missing or wrong? Try to make a PR, I'll take a look.
