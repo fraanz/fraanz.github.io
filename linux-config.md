@@ -1,9 +1,6 @@
-# flyby
-## Doc & tools to get a minimal, stable and simple environment on top of gentoo linux
+The purpose of this file is to be a reference for me (and other people I hope) in the configuration of an unix-like operating system from scratch. If you are new in the unix world, you may miss an overview of the components needed to get a fully working environment. Even if you are a more experienced user (not my case anyway), you may want a skeleton for a fast basic configuration of new systems. **Remember: the best configuration tool is the wiki.** So you can consider this like an attempt to build a my own operating system :P
 
-The purpose of this repo is to be a reference for me (and other people I hope) in the configuration of an unix-like operating system from scratch. If you are new in the unix world, you may miss an overview of the components needed to get a fully working environment. Even if you are a more experienced user (not my case anyway), you may want a skeleton for a fast basic configuration of new systems. **Remember: the best configuration tool is the wiki.** So you can consider this like an attempt to build a my own operating system :P
-
-Beware, these istruction are only to get the *my* small, cute, stable operating system. Obviously you should be free to skip whatever step you are not interested in. For any doubt, refer to the [gentoo wiki](https://wiki.gentoo.org/).
+Beware, these istruction are only to get the *my* small, cute, stable operating system. Obviously you should be free to skip whatever step you are not interested in. For any doubt, always refer to the [gentoo wiki](https://wiki.gentoo.org/).
 
 So, let's start with some notes...
 
